@@ -1,0 +1,7 @@
+.chatty {
+	font-family: 'Muli', 'Helvectica Neue', helvetica;
+	max-width: 760px;
+	margin: 20px auto;
+	overflow: hidden;
+	background-color: purple
+}
